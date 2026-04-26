@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Utkarsh Sahay 👋<br><br>I’m a **Software Engineer focused on AI/ML, Data Engineering, and Intelligent Application Development**. I enjoy building production-ready AI systems, agentic workflows, machine learning solutions, and data-driven products that solve real-world problems.<br><br>My work mainly revolves around **AI agents, LLM-powered pipelines, machine learning models, ETL systems, and intelligent full-stack applications**. I have experience working with **CrewAI, LLaMA, Python, PySpark, SQL, Streamlit, React Native, Rust, and cloud/data platforms**.<br><br>---<br><br>## About Me :<br><br>🔭 I’m currently working on **AI-powered healthcare and accessibility systems**, including **BankAbility**, a real-time eye-tracking and behavioral analytics platform built using **Rust, React Native, MediaPipe, VisionCamera, and AI-driven analysis workflows**.<br><br>👯 I’m looking to collaborate on **AI/ML products, LLM applications, AI agents, healthcare-tech platforms, data engineering systems, and intelligent full-stack applications**.<br><br>🤝 I’m looking for help with **scaling AI systems, improving LLM workflows, optimizing ML/data pipelines, and building reliable AI products for production use**.<br><br>🌱 I’m currently learning **advanced AI agent workflows, LLM orchestration, MLOps, PySpark, Databricks, system design, and scalable backend engineering**.<br><br>💬 Ask me about **CrewAI, LLaMA-based AI pipelines, Machine Learning, Python, PySpark, SQL, Streamlit, React Native, ETL pipelines, and building AI-powered applications**.<br><br>⚡ Fun fact: I love combining **AI + Data + Product Engineering** to build systems that are not just intelligent, but also usable, scalable, and impactful.<br><br>---<br><br>## My Focus Areas<br><br>- **AI Agents & LLM Applications**<br>- **Machine Learning Model Development**<br>- **Data Engineering & ETL Pipelines**<br>- **Healthcare AI & Accessibility Tech**<br>- **AI-powered Full Stack Applications**<br>- **Streamlit / React Native Product Development**<br>- **Python, SQL, PySpark, and Cloud-based Data Systems**<br><br>---<br><br>## Tech Stack<br><br>### AI / ML<br>**Python, Machine Learning, CNNs, CrewAI, LLaMA, AI Agents, LLM Pipelines, Data Processing, Model Evaluation**<br><br>### Data Engineering<br>**SQL, PostgreSQL, PySpark, Databricks, Azure SDK, ETL Pipelines, Streamlit Data Apps**<br><br>### Full Stack Development<br>**React, React Native, Node.js, Express.js, Firebase, Tailwind CSS, HTML, CSS, JavaScript**<br><br>### Systems & Tools<br>**Rust, C++, Git, Docker, Azure, Expo, Android Studio, VS Code**<br><br>---<br><br>## Highlights<br><br>- Built production AI pipelines using **CrewAI and local LLaMA models**<br>- Improved AI pipeline accuracy to **95%** while reducing operating cost through local inference<br>- Developed ETL pipelines using **Python, SQL, PySpark, and Databricks**<br>- Built a low-code data platform using **Streamlit, Azure SDK, and PySpark**<br>- Developed a financial risk prediction ML model with **99% precision**<br>- Built a CNN-based dress recognition model with **90%+ accuracy**<br>- Working on **BankAbility**, an AI-assisted accessibility platform with real-time gaze and behavioral analytics<br>- Strong competitive programming background with good ranks in **Codeforces and LeetCode**<br><br>---<br><br>## Open To Opportunities In<br><br>- AI/ML Engineering<br>- LLM Application Development<br>- AI Agent Development<br>- Data Engineering<br>- Software Engineering<br>- Full Stack Development<br>- Healthcare AI / Accessibility Tech
 
-<!--
-**utkarsh0336/utkarsh0336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-sahay-136125232/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=utkarsh0336&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=utkarsh0336&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=utkarsh0336&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=utkarsh0336&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
